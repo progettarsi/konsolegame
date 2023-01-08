@@ -1,5 +1,5 @@
 /.fleet
 /.vscode
 /bin
-/.obj
-/..gitignore
+/obj
+/.gitignore
