@@ -1,0 +1,15 @@
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\bin\Debug\net7.0\giokino.exe
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\bin\Debug\net7.0\giokino.deps.json
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\bin\Debug\net7.0\giokino.runtimeconfig.json
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\bin\Debug\net7.0\giokino.dll
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\bin\Debug\net7.0\giokino.pdb
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.csproj.AssemblyReference.cache
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.AssemblyInfoInputs.cache
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.AssemblyInfo.cs
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.csproj.CoreCompileInputs.cache
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.dll
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\refint\giokino.dll
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.pdb
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\giokino.genruntimeconfig.cache
+C:\Users\SHAdowOfficialle\Documents\#vscode\c#\giokino\obj\Debug\net7.0\ref\giokino.dll
