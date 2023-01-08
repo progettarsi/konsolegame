@@ -30,6 +30,7 @@ namespace gioko
                     {
                         //level up
                         me.lvl++;
+                        System.Console.WriteLine("!!Sei salito di livello!!");
                     }
                 }
                 
@@ -200,6 +201,7 @@ namespace gioko
                     stamina++;
                 }
                 else this.posizione = npos;
+                this.xp++;
             }
             else System.Console.WriteLine("Non puoi muoverti se non hai stamina, premi [B] per riposarti");
         }
